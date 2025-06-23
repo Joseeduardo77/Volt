@@ -1,4 +1,3 @@
-# Volt
 <h1 align="center">
   Volt ⚡
 </h1>

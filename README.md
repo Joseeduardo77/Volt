@@ -143,20 +143,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-### 🛠️ Como Rodar
-
-```bash
-# 1. Clone o repositório
-git clone [https://github.com/seu-usuario/volt.git](https://github.com/seu-usuario/volt.git)
-
-# 2. Acesse a pasta do projeto
-cd volt
-
-# 3. Siga as instruções de setup para o Back-end e Front-end
-# (que estarão em seus respectivos diretórios)
-Nota: É necessário ter o .NET SDK e o Node.js instalados.
-
-👥 Autores
+### 👥 Autores
 Desenvolvido com ❤️ por:
 
 José Eduardo

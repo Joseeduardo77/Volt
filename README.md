@@ -144,7 +144,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 ---
 
 ### 👥 Autores
-Desenvolvido com ❤️ por:
+Desenvolvido por:
 
-José Eduardo
+José Eduardo <br>
 Victor Hugo
